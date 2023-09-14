@@ -9,7 +9,9 @@ h1{
 }
 
 .container{
-    font-size: 2em;
+    font-size: 1em;
+    font-family:'Courier New', Courier, monospace ;
+    
 
     
 }
@@ -25,14 +27,20 @@ h1{
 
 #p2{
     background-color:aliceblue;
+    font-size: 2em;
+    margin: 10px;
+    padding: 20px;
 }
 
-.infocontainer{
 
-    
 
-}
 .infor{
     font-size: x-large;
+    border-style: inset;
+    margin: 10px;
+    box-shadow: 10px;
+    padding: 10px;
+    font-family: monospace;
+    
     
 }
